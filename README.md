@@ -9,3 +9,5 @@
 
 > [!TIP]
 > 当然，也可以日常无聊时随手玩玩。
+## 使用方式
+### 1.打开Python官方网站，下载[Python](https://python.org)

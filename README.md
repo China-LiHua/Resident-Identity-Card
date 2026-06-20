@@ -1,2 +1,11 @@
-# Resident-Identity-Card
-A pure offline Chinese ID card format validator (checks length, date logic, and checksum). No internet required, no police database connection.
+# 居民身份证使用说明 📕
+#### 它是什么？
+
+> [!NOTE]
+> 它是一个**纯离线**的中国（全称：中华人民共和国）身份证格式验证器，**无需连接公安数据库**，仅通过公式生成身份证号码或验证号码的真伪性。
+
+> [!CAUTION]
+> 本工具**无法保证**此身份证号码**一定**是现实中存在的，但对于离线场景下校验号码格式真伪性很有用。
+
+> [!TIP]
+> 当然，也可以日常无聊时随手玩玩。

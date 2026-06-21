@@ -1,4 +1,5 @@
 import datetime
+from time import sleep
 
 def main():
     print("原作者：China-LiHua，作品网址：https://github.com/China-LiHua/Resident-Identity-Card")

@@ -1,6 +1,10 @@
 from random import randint
 from datetime import datetime
+from time import sleep
 def main():
+    print("原作者：China-LiHua，作品网址：https://github.com/China-LiHua/Resident-Identity-Card")
+    print("加载中...")
+    sleep(2)
     while True:
         input_value = input("请问你要生成多少串伪身份证号码：")
         if is_int(input_value):

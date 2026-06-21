@@ -9,8 +9,4 @@
 
 > [!TIP]
 > 当然，也可以日常无聊时随手玩玩。
-## 使用方式
-**1.打开Python官方网站，下载[Python](https://python.org)**  
-[新手指引](https://python.org)👈    
-![1](raw.githubusercontent.com/China-LiHua/Resident-Identity-Card/main/Pictures/1.png)  
 

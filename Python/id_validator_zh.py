@@ -1,6 +1,10 @@
 import datetime
+from time import sleep
 
 def main():
+    print("原作者：China-LiHua，作品网址：https://github.com/China-LiHua/Resident-Identity-Card")
+    print("加载中...")
+    sleep(2)
     # 初始化
     error_List = []
     factors = [7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2]
